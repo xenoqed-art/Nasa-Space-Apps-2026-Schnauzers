@@ -6,3 +6,4 @@ skyfield
 tifffile
 streamlit
 plotly
+matplotlib
