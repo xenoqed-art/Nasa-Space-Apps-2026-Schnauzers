@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 import streamlit as st
 
+from src.terrain import TerrainEngine
 terrain_engine = TerrainEngine(dem_path="data/mosaic-sfs_v2.tif")
 # -----------------------------------------------------------------------------
 # 1. BACKEND MODULE IMPORTS (Team Schnauzers Architecture)
