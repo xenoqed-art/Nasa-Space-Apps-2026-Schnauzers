@@ -7,3 +7,4 @@ tifffile
 streamlit
 plotly
 matplotlib
+rasterio
