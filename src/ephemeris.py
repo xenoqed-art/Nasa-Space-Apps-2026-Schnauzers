@@ -73,7 +73,6 @@ class EphemerisEngine:
         phi = np.radians(lat)
         lam = np.radians(lon)
 
-       ----
 # Position of the site in the surface (including topocentic "paralaje")
         obs_x = self.MOON_RADIUS_KM * np.cos(phi) * np.cos(lam)
         obs_y = self.MOON_RADIUS_KM * np.cos(phi) * np.sin(lam)
