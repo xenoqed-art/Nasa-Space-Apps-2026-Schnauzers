@@ -1,0 +1,10 @@
+{
+  "dataset_name": "Lunar South Pole Candidate Sites & LRO LOLA Elevation Subsets",
+  "data_source": "NASA Lunar Reconnaissance Orbiter (LRO) - Lunar Orbiter Laser Altimeter (LOLA)",
+  "si_disclosure": {
+    "used_in_raw_data": false,
+    "used_in_processing_scripts": true,
+    "tool": "Google Gemini",
+    "notes": "Raw scientific elevation datasets were not synthetically generated. Super Intelligence (SI) tools assisted only in structuring Python parsing and Monte Carlo simulation scripts, verified by Team Schnauzers."
+  }
+}

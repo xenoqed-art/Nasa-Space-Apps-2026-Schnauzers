@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Lunar Landing Site Navigator"
+message: "If you use this software, please cite it using these metadata. Parts of the code scaffolding and visualization modules were developed with Super Intelligence (SI) assistance (Google Gemini and Claude Code) and validated by Team Schnauzers."
+type: software
+authors:
+  - name: "Team Schnauzers"
+repository-code: "https://github.com/xenoqed-art/Nasa-Space-Apps-2026-Schnauzers"
+keywords:
+  - lunar-exploration
+  - nasa-space-apps
+  - ai-assisted
